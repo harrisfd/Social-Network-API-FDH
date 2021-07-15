@@ -15,7 +15,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/socialnet", {
     useFindAndModify:false
 })
 
-// app.use(require("./Routes/api"))
+app.use(require("./Routes/api"))
 
 app.listen(PORT,()=>{
     console.log("server is started")
