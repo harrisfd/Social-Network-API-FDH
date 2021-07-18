@@ -20,9 +20,9 @@ github: https://github.com/harrisfd/
 Technologies Used: Express. Js, Mongo Db, and Thunder Client
 Walkthrough Video: 
 
-<img src="./images/alltables.jpg" alt="JPG of the application"/>
+<img src="images/SocialAPI-1.jpg" alt="JPG of the application"/>
 
-<img src="./images/walkthroughexample.jpg" alt="JPG of the application"/>
+<img src="images/SocialAPI-2.jpg" alt="JPG of the application"/>
 
 ## Roadmap
 
