@@ -18,6 +18,8 @@ github: https://github.com/harrisfd/
 
 ## Usage
 Technologies Used: Express. Js, Mongo Db, and Thunder Client
+</br>
+</br>
 Walkthrough Video: 
 
 <img src="images/SocialAPI-1.jpg" alt="JPG of the application"/>
