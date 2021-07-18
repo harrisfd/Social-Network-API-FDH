@@ -13,7 +13,7 @@ GIVEN a social network API, when I enter the command to invoke the application, 
 
 ## Installation
 
-github: https://github.com/harrisfd/
+github: https://github.com/harrisfd/Social-Network-API-FDH
 
 
 ## Usage
